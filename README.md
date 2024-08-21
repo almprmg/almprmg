@@ -4,7 +4,7 @@
 <h3>Full stack developer <a href="" target="blank"</a></h3>
   
 - 💬 Ask me about **Python,flutter**
--  📫 How to reach me Number WhatsApp **+967**
+
 
 
 
