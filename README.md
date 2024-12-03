@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Hi 👋, I'm Hareth Al-maqtari</h1>
+<h1>Hi 👋, I'm Hareth </h1>
 
 <h3>Full stack developer <a href="" target="blank"</a></h3>
   
