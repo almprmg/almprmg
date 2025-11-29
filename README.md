@@ -2,8 +2,7 @@
 <h1>Hi 👋, I'm Hareth</h1>
 
 <h3>Full stack developer <a href="" target="blank"</a></h3>
-  
-- 💬 Ask me about **Python,flutter**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
