@@ -30,15 +30,13 @@
 
 <h3 align="left">الخدمات و مجالات العمل:</h3>
 <ul>
-  <li>System Design وتصميم هيكلة الأنظمة</li>
-  <li>UI/UX Design وتصميم الواجهات</li>
-
   <li>تطوير مواقع ويب (Front-end & Back-end) + Design Pattern</li>
   <li>تطوير تطبيقات موبايل (Flutter / React Native)</li>
+  <li>System Design وتصميم هيكلة الأنظمة</li>
   <li>مشاريع Laravel و PHP</li>
   <li>نشر واستضافة (Hostinger – AWS)</li>
   <li>حاويات وCI/CD (Docker – GitHub Actions)</li>
-  <li>Live Streaming إعداد بث (YouTube / RTMP)</li>
+  <li>Live Streaming </li>
   <li>قواعد بيانات وتصميم APIs (MySQL – FastAPI – Node.js)</li>
 </ul>
 <details><summary>GitHub Stats</summary>
