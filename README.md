@@ -1,50 +1,50 @@
-### Hi there 👋
-<h1>Hi 👋, I'm Hareth</h1>
+<h1>Hareth Al-Maqtari</h1>
 
-<h3>Full stack developer | UI/UX Designer | System Design </h3>
+<h3>Backend Engineer · TypeScript & Node.js</h3>
 
-<p>أعمل في تطوير الويب والتطبيقات، وبخدمات الاستضافة والبنية التحتية، والبث المباشر، إضافةً إلى تصميم الأنظمة System Design، وتصميم الواجهات UI/UX، </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-	<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30"/></a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30"/></a>
- 	<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="30"/></a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30"/></a>
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30"/></a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30"/></a>
-	<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30"/></a>
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30"/></a>
-	<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30"/></a>
-	<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="30"/></a>
-	<a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" height="30"/></a>
-	<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30"/></a>
-	<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="30"/></a>
-	<a href="https://www.hostinger.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="30"/></a>
-	<a href="https://www.youtube.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" height="30"/></a>
-	<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="30"/></a>
-	<a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30"/></a>
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="30"/></a>
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30"/></a>
+<p>
+أبني خدمات خلفية تعمل في الإنتاج ويدفع فيها عملاء حقيقيون: TypeScript وNode.js فوق
+PostgreSQL، مع Redis وRabbitMQ، وطبقات زمن حقيقي بـWebSocket. وأبني تطبيقات Flutter
+منشورة على المتاجر.
 </p>
 
-<h3 align="left">الخدمات و مجالات العمل:</h3>
-<ul>
-  <li>تطوير مواقع ويب (Front-end & Back-end) + Design Pattern</li>
-  <li>تطوير تطبيقات موبايل (Flutter / React Native)</li>
-  <li>System Design وتصميم هيكلة الأنظمة</li>
-  <li>مشاريع Laravel و PHP</li>
-  <li>نشر واستضافة (Hostinger – AWS)</li>
-  <li>حاويات وCI/CD (Docker – GitHub Actions)</li>
-  <li>Live Streaming </li>
-  <li>قواعد بيانات وتصميم APIs (MySQL – FastAPI – Node.js)</li>
-</ul>
+<p>
+I build backend services that run in production and take real payments — TypeScript and
+Node.js over PostgreSQL, with Redis and RabbitMQ, and realtime layers over WebSocket.
+I also ship Flutter apps that reach the stores.
+</p>
+
+---
+
+### ما أعمل عليه · What I work on
+
+- **خدمات خلفية** — واجهات REST، ومصادقة JWT مع أدوار وصلاحيات، وطبقات تحقّق، وتكامل مع مزوّدين خارجيين
+- **زمن حقيقي** — WebSocket بحضورٍ وقنوات ومحادثات، موزَّعة بين الخوادم عبر Redis Pub/Sub
+- **قواعد بيانات** — PostgreSQL مع Prisma، وتخزين مؤقّت بـRedis، ومراسلة بـRabbitMQ
+- **تطبيقات جوال** — Flutter/Dart، تطبيقات منشورة على Google Play
+- **تعريب** — عربي/إنجليزي في كلّ طبقة، RTL كامل
+
+### التقنيات · Stack
+
+`TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` `Redis` `RabbitMQ` `WebSocket` `Zod`
+`Flutter` `Dart` `Python` `FastAPI` `Laravel` `Docker` `GitHub Actions`
+
+### مشاريع · Selected work
+
+| | |
+| --- | --- |
+| **[FlashBackTest](https://github.com/almprmg/FlashBackTest)** | إطار Python مفتوح المصدر لاختبار استراتيجيات التداول. الإشارة تُقرأ على إطار زمني خشن، وكلّ أمر يُحسَم على إطار دقيق — فلا يُخمَّن أيّهما تحقّق أوّلاً، جني الربح أم وقف الخسارة. `AGPL-3.0` |
+| **[freqtrade_btc_bot](https://github.com/almprmg/freqtrade_btc_bot)** | بوت BTC/USDT واعٍ بالنظام السوقي على Freqtrade — يفصل السوق المتّجه عن المتذبذب، مع حارس ضدّ التذبذب الكاذب وبوّابة تكلفة على ATR. |
+| **سُحاب العالم** | تطبيق سفر منشور على [Google Play](https://play.google.com/store/apps/details?id=sa.sahabalalam.app) يبيع سبعة منتجات عبر مزوّدين خارجيين، بمسار حجز متعدّد الخطوات ومحفظة داخلية. |
+
+### تواصل · Contact
+
+[harethalmaqtari@gmail.com](mailto:harethalmaqtari@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/hareth-al-maqtari-30901522a)
+
 <details><summary>GitHub Stats</summary>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=almprmg&show_icons=true&theme=dark&locale=en" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almprmg&theme=dark" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=almprmg&show_icons=true&theme=dark&locale=en" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=almprmg&show_icons=true&theme=dark&locale=en&layout=compact" /> |
 | :---: | :---: |
-
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=almprmg&show_icons=true&theme=dark&locale=en&layout=compact" /> |
-| :---: |
 
 </details>
