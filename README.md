@@ -1,7 +1,7 @@
 <h1 align="center">Hareth Al-Maqtari</h1>
 
 <p align="center">
-  <b>Backend Engineer</b> · TypeScript & Node.js
+  <b>Backend Engineer</b> · TypeScript &amp; Node.js
 </p>
 
 <p align="center">
@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  أبني خدمات خلفية تعمل في الإنتاج ويدفع فيها عملاء حقيقيون.<br />
   I build backend services that run in production and take real payments.
 </p>
 
@@ -33,19 +32,18 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-### ما أعمل عليه · What I work on
+### What I work on
 
-- **خدمات خلفية** — واجهات REST، ومصادقة JWT مع أدوار وصلاحيات، وطبقات تحقّق، وتكامل مع مزوّدين خارجيين
-- **زمن حقيقي** — WebSocket بحضورٍ وقنوات، موزَّعة بين الخوادم عبر Redis Pub/Sub
-- **قواعد بيانات** — PostgreSQL مع Prisma، وتخزين مؤقّت بـRedis، ومراسلة بـRabbitMQ
-- **تطبيقات جوال** — Flutter/Dart، منشورة على Google Play
-- **تعريب** — عربي/إنجليزي في كلّ طبقة، RTL كامل
+- **Backend services** — REST APIs, JWT auth with roles and permissions, validation layers, third-party provider integrations
+- **Realtime** — WebSocket presence and channels, fanned out across servers over Redis Pub/Sub
+- **Data** — PostgreSQL with Prisma, Redis caching, RabbitMQ messaging
+- **Mobile** — Flutter and Dart, apps published on Google Play
+- **Localisation** — Arabic and English through every layer, full RTL
 
 <br />
 
 <p align="center">
-  الأعمال كاملةً على <a href="https://hareth.site"><b>hareth.site</b></a><br />
-  <sub>Selected work, in full, at hareth.site</sub>
+  Selected work, in full, at <a href="https://hareth.site"><b>hareth.site</b></a>
 </p>
 
 <!-- The github-readme-stats cards used to sit here. The free Vercel
