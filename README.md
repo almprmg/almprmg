@@ -48,11 +48,8 @@
   <sub>Selected work, in full, at hareth.site</sub>
 </p>
 
-<details>
-<summary>GitHub Stats</summary>
-<br />
-
-| <img src="https://github-readme-stats.vercel.app/api?username=almprmg&show_icons=true&theme=dark&locale=en&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=almprmg&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" /> |
-| :---: | :---: |
-
-</details>
+<!-- The github-readme-stats cards used to sit here. The free Vercel
+     instance everyone shares is over its quota and answers 503, so both
+     cards rendered as broken images on the live profile. GitHub already
+     shows pinned repositories and a contribution graph under this file;
+     a third-party service that is down more than it is up adds nothing. -->
