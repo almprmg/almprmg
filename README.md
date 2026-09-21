@@ -1,50 +1,58 @@
-<h1>Hareth Al-Maqtari</h1>
+<h1 align="center">Hareth Al-Maqtari</h1>
 
-<h3>Backend Engineer · TypeScript & Node.js</h3>
-
-<p>
-أبني خدمات خلفية تعمل في الإنتاج ويدفع فيها عملاء حقيقيون: TypeScript وNode.js فوق
-PostgreSQL، مع Redis وRabbitMQ، وطبقات زمن حقيقي بـWebSocket. وأبني تطبيقات Flutter
-منشورة على المتاجر.
+<p align="center">
+  <b>Backend Engineer</b> · TypeScript & Node.js
 </p>
 
-<p>
-I build backend services that run in production and take real payments — TypeScript and
-Node.js over PostgreSQL, with Redis and RabbitMQ, and realtime layers over WebSocket.
-I also ship Flutter apps that reach the stores.
+<p align="center">
+  <a href="https://hareth.site"><img src="https://img.shields.io/badge/Portfolio-hareth.site-0071E3?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hareth-al-maqtari-30901522a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:harethalmaqtari@gmail.com"><img src="https://img.shields.io/badge/Email-1D1D1F?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+<p align="center">
+  أبني خدمات خلفية تعمل في الإنتاج ويدفع فيها عملاء حقيقيون.<br />
+  I build backend services that run in production and take real payments.
+</p>
+
+<br />
+
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-1D1D1F?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 ### ما أعمل عليه · What I work on
 
 - **خدمات خلفية** — واجهات REST، ومصادقة JWT مع أدوار وصلاحيات، وطبقات تحقّق، وتكامل مع مزوّدين خارجيين
-- **زمن حقيقي** — WebSocket بحضورٍ وقنوات ومحادثات، موزَّعة بين الخوادم عبر Redis Pub/Sub
+- **زمن حقيقي** — WebSocket بحضورٍ وقنوات، موزَّعة بين الخوادم عبر Redis Pub/Sub
 - **قواعد بيانات** — PostgreSQL مع Prisma، وتخزين مؤقّت بـRedis، ومراسلة بـRabbitMQ
-- **تطبيقات جوال** — Flutter/Dart، تطبيقات منشورة على Google Play
+- **تطبيقات جوال** — Flutter/Dart، منشورة على Google Play
 - **تعريب** — عربي/إنجليزي في كلّ طبقة، RTL كامل
 
-### التقنيات · Stack
+<br />
 
-`TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` `Redis` `RabbitMQ` `WebSocket` `Zod`
-`Flutter` `Dart` `Python` `FastAPI` `Laravel` `Docker` `GitHub Actions`
+<p align="center">
+  الأعمال كاملةً على <a href="https://hareth.site"><b>hareth.site</b></a><br />
+  <sub>Selected work, in full, at hareth.site</sub>
+</p>
 
-### مشاريع · Selected work
+<details>
+<summary>GitHub Stats</summary>
+<br />
 
-| | |
-| --- | --- |
-| **[FlashBackTest](https://github.com/almprmg/FlashBackTest)** | إطار Python مفتوح المصدر لاختبار استراتيجيات التداول. الإشارة تُقرأ على إطار زمني خشن، وكلّ أمر يُحسَم على إطار دقيق — فلا يُخمَّن أيّهما تحقّق أوّلاً، جني الربح أم وقف الخسارة. `AGPL-3.0` |
-| **[freqtrade_btc_bot](https://github.com/almprmg/freqtrade_btc_bot)** | بوت BTC/USDT واعٍ بالنظام السوقي على Freqtrade — يفصل السوق المتّجه عن المتذبذب، مع حارس ضدّ التذبذب الكاذب وبوّابة تكلفة على ATR. |
-| **سُحاب العالم** | تطبيق سفر منشور على [Google Play](https://play.google.com/store/apps/details?id=sa.sahabalalam.app) يبيع سبعة منتجات عبر مزوّدين خارجيين، بمسار حجز متعدّد الخطوات ومحفظة داخلية. |
-
-### تواصل · Contact
-
-[harethalmaqtari@gmail.com](mailto:harethalmaqtari@gmail.com) ·
-[LinkedIn](https://www.linkedin.com/in/hareth-al-maqtari-30901522a)
-
-<details><summary>GitHub Stats</summary>
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=almprmg&show_icons=true&theme=dark&locale=en" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=almprmg&show_icons=true&theme=dark&locale=en&layout=compact" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=almprmg&show_icons=true&theme=dark&locale=en&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=almprmg&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" /> |
 | :---: | :---: |
 
 </details>
