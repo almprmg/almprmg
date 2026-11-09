@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://hareth.site"><img src="https://img.shields.io/badge/Portfolio-hareth.site-0071E3?style=flat-square" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/hareth-al-maqtari-30901522a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:harethalmaqtari@gmail.com"><img src="https://img.shields.io/badge/Email-1D1D1F?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
