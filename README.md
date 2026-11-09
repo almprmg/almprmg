@@ -1,4 +1,4 @@
-<h1 align="center">Hareth Al-Maqtari</h1>
+<h1 align="center">Hareth</h1>
 
 <p align="center">
   <b>Backend Engineer</b> · TypeScript &amp; Node.js
